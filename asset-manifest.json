@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.7e6d4872.css",
+    "main.js": "/React/static/js/main.6b3f1734.js",
+    "static/media/istockphoto-logo.jpg": "/React/static/media/istockphoto-logo.9f0cbc87835b1fd9a028.jpg",
+    "static/media/pexels-0.jpeg": "/React/static/media/pexels-0.e602a314cfc9a33d931d.jpeg",
+    "static/media/pexels-2.jpeg": "/React/static/media/pexels-2.f7b790894f36bd7a076d.jpeg",
+    "static/media/pexels2.jpeg": "/React/static/media/pexels2.4ce302002df0c43994e7.jpeg",
+    "static/media/logo.jpg": "/React/static/media/logo.e922873a5ab50e7fbf57.jpg",
+    "static/media/pexels-1.jpeg": "/React/static/media/pexels-1.c733f342c930693c0399.jpeg",
+    "index.html": "/React/index.html",
+    "main.7e6d4872.css.map": "/React/static/css/main.7e6d4872.css.map",
+    "main.6b3f1734.js.map": "/React/static/js/main.6b3f1734.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e6d4872.css",
+    "static/js/main.6b3f1734.js"
+  ]
+}
