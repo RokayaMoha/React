@@ -1,0 +1,19 @@
+:root{
+
+    --color-dark:#000;
+    --color-light: #a52a2a;
+    --color-darkest :#1f2122;
+
+}
+body{
+    background-color: var(--color-darkest);
+    
+
+        font-family: "Poppins", sans-serif;
+        
+      
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,900;&display=swap');

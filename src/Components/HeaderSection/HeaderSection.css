@@ -1,0 +1,6 @@
+.Most-Popular-main {
+    font-weight: 900;
+}
+.Most-Popular-main em{
+    color : var(--color-light)
+}

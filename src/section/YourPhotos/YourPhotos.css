@@ -1,0 +1,7 @@
+.Your-Photo-items{
+    display: flex;
+ flex-wrap: wrap;
+}
+.YourPhotoMain{
+    margin: 50px 0;
+}

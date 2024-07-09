@@ -1,0 +1,7 @@
+.Most-Popular-wrapp{
+    background-color: var(--color-darkest);
+    border-radius: 25px;
+    color:aliceblue;
+    padding:30px;
+    margin :0 50px;
+}

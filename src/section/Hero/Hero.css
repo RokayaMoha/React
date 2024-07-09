@@ -1,0 +1,36 @@
+.hero-main{
+    background: url(../../assets/images/istockphoto-logo.jpg) no-repeat top right/cover ;
+      border-radius: 25px;
+      padding: 50px;
+      margin: 50px;
+
+
+}
+
+h6{
+    color:#fff;
+    font-weight : 300;
+
+}
+h2{
+    padding-top: 30px;
+    font-weight: 900;
+    color:#fff;
+    font-size: 40px;
+}
+.hero-text{
+    max-width: 300px;
+}
+h2 em{
+    color:var(--color-light)
+}
+.hero-button a{
+    font-weight: 300;
+    font-size: 20px;
+    color :#000;
+    text-decoration: none;
+    
+}
+.hero-button a:hover{
+    color:rgb(105, 103, 103)
+}
